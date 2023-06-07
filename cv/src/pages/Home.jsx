@@ -14,6 +14,11 @@ const Home = () => {
               Télécharger CV
             </a>
           </div>
+          <div className="pdf2">
+            <a href="./media/diplome.pdf" target="_blank">
+              Télécharger Diplôme
+            </a>
+          </div>
         </div>
       </div>
     </div>

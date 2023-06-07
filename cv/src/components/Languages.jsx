@@ -1,7 +1,7 @@
-import React from "react";
+/*import React from "react";
 
 const Languages = () => {
   return <div>Languages et FrameWork</div>;
 };
 
-export default Languages;
+export default Languages;*/
